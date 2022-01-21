@@ -1,4 +1,12 @@
 [
-  { "id": 1, "nama": "Alifiandy Nugraha", "email": "Ngoding", "password": 12345678 },
-  { "id": 2, "nama": "Raihan", "email": "Belajar", "password": 12345678 }
+    {
+        "nama": "rizky",
+        "email": "ryperk@gmail.com",
+        "password": "lalahaha"
+    },
+   {
+        "nama": "alifiandyn",
+        "email": "alifiandyn@gmail.com",
+        "password": "12345678"
+    }
 ]
